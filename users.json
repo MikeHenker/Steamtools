@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "username": "jupiter",
+    "password": "$2b$10$qXZuEEO4UwUninQNG79KFensj9i4HRQMz1tUGDzkZZvvMWt3Hyfw.",
+    "role": "admin",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:02:55.371Z"
+  },
+  {
+    "id": 2,
+    "username": "khaedus",
+    "password": "$2b$10$QyDAGvY/y/Xzv7fqIeIA2.ylCF3xAqCHYEDwsS2WSpP1x9eQd0LP2",
+    "role": "admin",
+    "avatar": "",
+    "bio": "",
+    "theme": "light",
+    "created_at": "2025-09-30T21:02:55.490Z"
+  },
+  {
+    "id": 3,
+    "username": "malte",
+    "password": "$2b$10$aj0mW3cj09XpMwfCOVjFre2mXoE6YWHjP14J4fo35YFLp6iCsSNkW",
+    "role": "admin",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:02:55.608Z"
+  },
+  {
+    "id": 4,
+    "username": "Karimqas",
+    "password": "$2b$10$SJgAl1X0b.B7Cm4QbM9MiuSJzyDa66C8AaQhNsZBck76diDLW7SKu",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:03:07.741Z"
+  },
+  {
+    "id": 5,
+    "username": "Buo",
+    "password": "$2b$10$OFgp8scOaUlKG.12Hb8dPeM/9wRA8WRkG/5riR9fpxLpL0myd9zlC",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:03:32.438Z"
+  },
+  {
+    "id": 6,
+    "username": "Rotinda",
+    "password": "$2b$10$LuAULtbOevV2kC3CdNeqOObrghR/BokfIOBGWgINMNeMDtvpjhgXW",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:05:46.932Z"
+  },
+  {
+    "id": 7,
+    "username": "SUSpance",
+    "password": "$2b$10$YZ/86XxC/RF.of9mAdnAReZ7lyH.E4U/Hka2vUz7J03v0d3O.MP/G",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:07:38.123Z"
+  },
+  {
+    "id": 8,
+    "username": "Dudubemvenudo",
+    "password": "$2b$10$Xoct9cGWsHb.nrvXKfxVr.76pqsawcxc0xBjNUINR1vDdCuuSCNL2",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:09:51.598Z"
+  },
+  {
+    "id": 9,
+    "username": "roni",
+    "password": "$2b$10$OvOI4lAvRjJm0HE2SvNG5OxuLQg8GfBu30J5.NJ.13.AQcZZsHHpu",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:16:21.312Z"
+  },
+  {
+    "id": 10,
+    "username": "Ciurka420",
+    "password": "$2b$10$LkL5HWcodTmljButmloBsuAzXGQmM4sSyRGjeH0pN2Wdqz2b63KBi",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:23:36.030Z"
+  },
+  {
+    "id": 11,
+    "username": "BELMONDO",
+    "password": "$2b$10$Se/j.Azhh.dAeLyad9CE3.i35MrAZb.na70Rl9.FeUbbjgFLfI.Ji",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:29:49.607Z"
+  },
+  {
+    "id": 12,
+    "username": "yaboywiz005",
+    "password": "$2b$10$B.sKCs8oOCvKihV/NQa60uspIiW.YrXlRq.FL64wJQPrvbfspWo9m",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:41:32.409Z"
+  },
+  {
+    "id": 13,
+    "username": "TheRealStanShady",
+    "password": "$2b$10$VIzIwjwYGgyg3kCbXss8Hu2AnEW7KN3BfeYSBCVeekBFSL9uWa9jm",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T21:56:20.646Z"
+  },
+  {
+    "id": 14,
+    "username": "Jesus Heals",
+    "password": "$2b$10$4jmwGQJx2JBEiVQ5rI7fhuNIEngcn40PGz2okLaF2a9fdadduPUL.",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-09-30T22:54:02.591Z"
+  },
+  {
+    "id": 15,
+    "username": "kenjiii",
+    "password": "$2b$10$QmjM941BxGQf7IaL5eWyU.U21YTENds4o0MWJw3HrmI.MEdIe0j7q",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T01:41:28.074Z"
+  },
+  {
+    "id": 16,
+    "username": "sus",
+    "password": "$2b$10$65V1pE9LrEYCGgkO2//zxeHjl/ZkIecBq7ClpUlHv8oNYCzEaIHbC",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T01:56:35.917Z"
+  },
+  {
+    "id": 17,
+    "username": "darksung",
+    "password": "$2b$10$AcBQ2z4FFOU1wmY4iCb3FuPesIiC3jKDDRR134cE6UtTVg0h4RQme",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T03:21:55.133Z"
+  },
+  {
+    "id": 18,
+    "username": "Fedrrt",
+    "password": "$2b$10$yPZMjSxo6lKPH72DLPMmp.diKAS5xYqWjeae3qrbxjZktiBUYXCnu",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T04:16:41.699Z"
+  },
+  {
+    "id": 19,
+    "username": "sarplays9",
+    "password": "$2b$10$re8A16u30o3LudmGcoGJvOpgr9n3apmKMoAADc9hnW.75M6SoJh5y",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T04:42:14.720Z"
+  },
+  {
+    "id": 20,
+    "username": "Furiousrage",
+    "password": "$2b$10$zHlpAy39dELIX8Nt3/AqU.yKK4wVkbE1ssZYc5zR6bTrEMeW2SZ2K",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T05:24:33.786Z"
+  },
+  {
+    "id": 21,
+    "username": "badbug",
+    "password": "$2b$10$nswqpx6gdb8mAVBuY9v0Du3hai3gJwvWLQwGAsw10/ixOw/GYgAYG",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T07:13:04.751Z"
+  },
+  {
+    "id": 22,
+    "username": "khaedusw",
+    "password": "$2b$10$9f/S6rpIh4erOrOs.dTV.Olt1ssS7Tfxmr7HyWOXyetHyaxnaK90O",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T07:52:36.507Z"
+  },
+  {
+    "id": 23,
+    "username": "DAEMON LORD 7",
+    "password": "$2b$10$LqQpe8ZbETt8xmN5Y89vyej9CzWMYNTt5AiZuHUxsQum7F2ga88bS",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T09:38:16.063Z"
+  },
+  {
+    "id": 24,
+    "username": "Monkey",
+    "password": "$2b$10$VF3.5FlfAcXCBGq2DE1FZeCTpa5dKl0gubWysRewynMhMErocj4C6",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T10:58:15.139Z"
+  },
+  {
+    "id": 25,
+    "username": "LoveuRose2026!",
+    "password": "$2b$10$TYgVrwlOABnwk30eeFX7oO.Nz7xK5X/vhh7XeY8xS2FTddtDrmJNu",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T11:01:10.401Z"
+  },
+  {
+    "id": 26,
+    "username": "MatteoMusician1997",
+    "password": "$2b$10$M0S812h3ouAL5K20.mcPfupS3trMIcK8cd6m/Ja1FkMsKL42X1j2q",
+    "role": "basic",
+    "avatar": "",
+    "bio": "",
+    "theme": "dark",
+    "created_at": "2025-10-01T11:27:03.534Z"
+  },
+  {
+    "id": 27,
+    "username": "peppe332",
+    "password": "$2b$10$14g7miVhIFwRZSV.5.rbKe2/41sNabLBF0U.4GVZXFZE91Rh7bAZm",
+    "role": "basic",
+    "avatar": null,
+    "bio": null,
+    "theme": "dark",
+    "created_at": "2025-10-01T12:41:08.551Z"
+  }
+]

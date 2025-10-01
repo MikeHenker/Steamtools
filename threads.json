@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "CoolThread",
+    "content": "Test",
+    "author": "khaedus",
+    "author_role": "admin",
+    "created_at": "2025-09-30T22:18:16.084Z",
+    "last_activity": "2025-09-30T22:18:23.279Z",
+    "message_count": 1,
+    "locked": false
+  },
+  {
+    "id": 2,
+    "title": "I love Malte",
+    "content": "I jsut love him\n",
+    "author": "khaedus",
+    "author_role": "admin",
+    "created_at": "2025-09-30T22:24:59.567Z",
+    "last_activity": "2025-10-01T05:49:10.211Z",
+    "message_count": 2,
+    "locked": false
+  }
+]

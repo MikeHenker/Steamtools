@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "steam_id": "47790",
+    "game_name": "Medal of Honor(TM) Single Player",
+    "notes": "None of the other sites has this game, I've searched everywhere and can't seem to find it",
+    "username": "Ciurka420",
+    "status": "approved",
+    "timestamp": "2025-09-30T21:23:40.836Z"
+  },
+  {
+    "id": 2,
+    "steam_id": "2537590",
+    "game_name": "Microsoft Flight Simulator 2024",
+    "notes": "",
+    "username": "BELMONDO",
+    "status": "pending",
+    "timestamp": "2025-09-30T21:29:53.618Z"
+  },
+  {
+    "id": 4,
+    "steam_id": "3405690",
+    "game_name": "EA SPORTS FC™ 26",
+    "notes": "",
+    "username": "BELMONDO",
+    "status": "pending",
+    "timestamp": "2025-09-30T21:32:01.083Z"
+  },
+  {
+    "id": 5,
+    "steam_id": "76561199828569788",
+    "game_name": "Black Myth: Wukong (2358720)",
+    "notes": "",
+    "username": "Rotinda",
+    "status": "pending",
+    "timestamp": "2025-09-30T23:00:27.843Z"
+  },
+  {
+    "id": 6,
+    "steam_id": "2911260",
+    "game_name": "Stellifier - an otome game inspired by older idols",
+    "notes": "can u pls add this i beg u ",
+    "username": "kenjiii",
+    "status": "pending",
+    "timestamp": "2025-10-01T01:41:35.252Z"
+  },
+  {
+    "id": 7,
+    "steam_id": "626690",
+    "game_name": "Sword Art Online: Fatal Bullet",
+    "notes": "You can add multiplayer/ online for best experience. ",
+    "username": "Monkey",
+    "status": "pending",
+    "timestamp": "2025-10-01T10:59:08.875Z"
+  },
+  {
+    "id": 8,
+    "steam_id": "2486820",
+    "game_name": "Sonic Racing: CrossWorlds",
+    "notes": "If its possible to be crossplay with players from other places.",
+    "username": "Monkey",
+    "status": "pending",
+    "timestamp": "2025-10-01T11:00:08.183Z"
+  },
+  {
+    "id": 9,
+    "steam_id": "638650",
+    "game_name": "Sword Art Online Re: Hollow Fragment",
+    "notes": "Because of small player base adding at least online multiplayer with other who use the same platform will be good.",
+    "username": "Monkey",
+    "status": "pending",
+    "timestamp": "2025-10-01T11:03:41.683Z"
+  },
+  {
+    "id": 10,
+    "steam_id": "1533420",
+    "game_name": "Neon White ",
+    "notes": "Add online leaderboard or at least a friend one ",
+    "username": "Monkey",
+    "status": "pending",
+    "timestamp": "2025-10-01T11:14:12.504Z"
+  }
+]

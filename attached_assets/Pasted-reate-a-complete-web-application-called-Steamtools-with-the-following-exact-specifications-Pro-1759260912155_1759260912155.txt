@@ -1,0 +1,71 @@
+reate a complete web application called "Steamtools" with the following exact specifications:
+
+Project Overview
+Build a modern gaming platform for sharing Lua scripts and manifest files, user authentication, game management, and admin features.
+
+Core Features Required
+
+User System:
+Registration and login system using localStorage
+Three user roles: basic, gameadder, admin
+Pre-configured admin accounts:jupiter/123es123as (admin)
+khaedus/coolgang57 (admin)
+malte/maltese21 (admin)
+Role-based navigation visibility
+
+Game Management:
+Upload system for games with extensive form fields:Title, descriptions (short and full), developer, publisher
+Release date, genre, tags, rating, difficulty
+Image upload (drag & drop + URL), download link, file size
+System requirements, additional notes, verification status
+Game cards with expandable descriptions
+Game detail modal with full information and download functionality
+Admin can delete games
+
+Comment System:
+User comments on games with emoji support
+Like/unlike functionality
+Edit/delete own comments (admins can delete any)
+Role-based styling and badges
+Sort by newest/oldest
+
+Request System:
+Users can request games with Steam ID
+Admin panel to approve/reject/delete requests
+Required redirections:"Want to add online to steamtools games? Look here: online-fix.me" → https://online-fix.me
+"Join our discord: https://discord.gg/363dDzJFSv" → https://discord.gg/363dDzJFSv
+
+Admin Features:
+User management (change roles, delete users)
+Game management (delete games)
+Request management (approve/reject/delete)
+Announcement system with banner
+Maintenance mode toggle
+Design Requirements
+Visual Style:
+You choose yourslef
+File Structure:
+
+index.html (complete HTML structure)
+app.js (all JavaScript functionality)
+styles.css (complete CSS with glassmorphism effects)
+Data Storage:
+
+Use JSON databse
+Storage keys: users, games, comments, current_user, announcement, maintenance, requests
+JSON format for all stored data
+JavaScript Features:
+
+Include these exact links in the request page:
+
+Online Fix Redirection:
+
+Text: "Want to add online to steamtools games? Look here: online-fix.me"
+Link: https://online-fix.me
+Opens in new tab
+Discord Redirection:
+
+Text: "Join our discord: https://discord.gg/363dDzJFSv"
+Link: https://discord.gg/363dDzJFSv
+Opens in new tab
+DESIGN EVERYTHING YOU DO YOURSELF but json database static html, css , js website yea
